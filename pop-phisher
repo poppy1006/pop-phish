@@ -77,7 +77,7 @@ printf "\e[0m\e[92m  |  |_> (  <_> )  |_) ) /_____/ |  |_> |   Y  \  |\___ \|   
 printf "\e[0m\e[92m  |   __/ \____/|   __/          |   __/|___|  /__/____  >___|  /   \e[0m\n"
 printf "\e[0m\e[92m  |__|          |__|             |__|        \/        \/     \/    \e[0m\n"
 printf "\e[0m\n"
-printf " \e[0m\e[1;41m                                       [BY : POPPY ] \e[0m\n"
+printf " \e[0m\e[1;41m                                       [BY : POPPY1006 ] \e[0m\n"
 printf "\e[0m\n"
 
 }
